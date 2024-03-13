@@ -1,0 +1,7 @@
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\bin\Debug\UserLogonAuthenticated.exe.config
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\bin\Debug\UserLogonAuthenticated.exe
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\bin\Debug\UserLogonAuthenticated.pdb
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\obj\Debug\UserLogonAuthenticated.csproj.AssemblyReference.cache
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\obj\Debug\UserLogonAuthenticated.csproj.CoreCompileInputs.cache
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\obj\Debug\UserLogonAuthenticated.exe
+C:\Users\palakdwi\source\repos\UserLogonAuthenticated\UserLogonAuthenticated\obj\Debug\UserLogonAuthenticated.pdb
